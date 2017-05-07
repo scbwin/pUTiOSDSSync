@@ -39,5 +39,5 @@ Check the requirements.txt for other dependencies.
 
 ### Running using Python
 1. Set up a python virtualenv if wanted
-2. Install the dependencies using `pip install -r requirements.txt'
+2. Install the dependencies using `pip install -r requirements.txt`
 3. Run the app using `python app`
