@@ -1,6 +1,4 @@
 .python-version
 *.pyc
 *.swp
-.ropeproject
 .coverage
-download-sync.latest.tar
