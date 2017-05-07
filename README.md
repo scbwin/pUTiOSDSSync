@@ -37,7 +37,7 @@ Check the requirements.txt for other dependencies.
 1. Build the image using `docker build -t putio_sds_sync`
 2. Run the image using `docker run -d puio_sds_sync`
 
-## Running using Python
+### Running using Python
 1. Set up a python virtualenv if wanted
 2. Install the dependencies using `pip install -r requirements.txt'
 3. Run the app using `python app`
