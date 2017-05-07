@@ -1,0 +1,10 @@
+synology:
+        url: http://localhost:5000
+        username: admin
+        password: P@ssw0rd
+putio:
+        token: JX12341234
+monitor_minutes: 2
+feeds:
+        - https://username:some_pass@put.io/rss/video/433592046
+        - https://username:some_pass@put.io/rss/video/433592047

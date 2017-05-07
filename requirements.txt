@@ -1,0 +1,9 @@
+mock==2.0.0
+coverage==4.2
+feedparser==5.2.1
+requests==2.12.1
+synolopy==0.1.2
+putio.py==3.3.0
+nose==1.3.7
+apscheduler==3.3.0
+pyyaml==3.12

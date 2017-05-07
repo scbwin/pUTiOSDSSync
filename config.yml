@@ -1,0 +1,10 @@
+synology:
+        url: http://<your_synology_nas_ip>:5000/webapi
+        username: <your_synology_nas_username>
+        password: <your_synology_nas_password>
+putio:
+        token: <your_putio_oath_token>
+monitor_minutes: <interval_in_minutes_to_monitor_rss_feeds>
+feeds:
+        - <feed 1 to monitor>
+        - <feed 2 to monitor>
