@@ -41,3 +41,7 @@ Check the requirements.txt for other dependencies.
 1. Set up a python virtualenv if wanted
 2. Install the dependencies using `pip install -r requirements.txt`
 3. Run the app using `python app`
+
+### Running tests
+- Running all tests: `nosetests`
+- Running all tests with coverage: `nosetests -s --with-coverage --cover-package=app`
